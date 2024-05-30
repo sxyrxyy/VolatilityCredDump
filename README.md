@@ -1,4 +1,4 @@
-# Dump memory and get creds using Volatility
+# Dump memory and get creds using Volatility - Bypassing EDR\XDR\AV
 
 ## Features
 
