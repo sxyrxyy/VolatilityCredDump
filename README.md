@@ -38,7 +38,7 @@
 ### Main Function Workflow
 
 1. **System Checks**:
-    - Calculate RAM size in GB.
+    - Calculate RAM size.
     - Check free disk space in the current directory.
     - Calculate required space (RAM size + 2GB headroom).
 
@@ -46,7 +46,8 @@
     If confirmed and there is enough space, run `winpmem_mini_x64_rc2.exe` to create `mem.raw`.
 
 3. **Options**:
-    If `mem.raw` is created and its size is sufficient, prompt the user with the following options:
+
+   If `mem.raw` is created and its size is sufficient, prompt the user with the following options:
     - **1**: SAM dump
     - **2**: Cache dump
     - **3**: Lsass dump
