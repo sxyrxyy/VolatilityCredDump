@@ -1,0 +1,4 @@
+Binaries from:
+https://github.com/stuxnet999/volatility-binaries
+https://github.com/Velocidex/WinPmem
+
